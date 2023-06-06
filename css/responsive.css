@@ -1,0 +1,407 @@
+@media (min-width: 279px) and (max-width: 319px) {
+
+	/*	css start*/
+	.header .menu .login {
+		font-size: 8px;
+		margin: 0px 5px 0px 0px;
+		padding: 5px 10px;
+	}
+
+	.header .menu .register {
+		font-size: 8px;
+		margin: 0px 0px 0px 0px;
+		padding: 5px 10px;
+	}
+
+	.inner-top-header {
+		display: none;
+	}
+
+	.banner h2 {
+		font-size: 16px;
+		margin: 10px 0px 0px 0px;
+	}
+
+	.banner p {
+		font-size: 12px;
+		margin: 10px 0px 10px 0px;
+	}
+
+	.banner a {
+		font-size: 12px;
+		margin: 0px 0px 0px 0px;
+		padding: 5px 15px;
+	}
+
+	.inner-banner {
+		text-align: center;
+	}
+
+	.banner .img-fluid {
+		margin: 20px 0px 0px 0px;
+	}
+
+	.brand {
+		width: 100%;
+		padding: 30px 0px;
+	}
+
+	.brand h4 {
+		font-size: 16px;
+	}
+
+	.brand img {
+		width: 100%;
+		height: 30px;
+		margin: 40px 0px 0px 0px;
+	}
+
+	.inner-picture {
+		width: 100%;
+		padding: 0px 20px;
+	}
+
+	.category h4 {
+		font-size: 20px;
+		margin: 0px 0px 30px 0px;
+		text-align: center;
+	}
+
+	.card-img {
+		margin: 0px 0px 10px;
+		padding: 0px 10px;
+	}
+
+	.category .card .card-title {
+		text-align: center;
+	}
+
+	.category .card .card-text {
+		text-align: center;
+	}
+
+	.services {
+		padding: 40px 0px 0px;
+	}
+
+	.services h4 {
+		font-size: 24px;
+		margin: 0px 0px 10px 0px;
+	}
+
+	.services .inner-services {
+		padding: 20px 0px;
+	}
+
+	.services .inner-services p {
+		font-size: 12px;
+		margin: 15px 0px 15px 0px;
+	}
+
+	.product {
+		padding: 40px 0px;
+	}
+
+	.product h4 {
+		font-size: 20px;
+		text-align: center;
+		margin: 0px 0px 20px 0px;
+	}
+
+	.product .owl-carousel .item h6 {
+		font-size: 8px;
+	}
+
+	.product .owl-carousel .item p {
+		font-size: 6px;
+		line-height: 1.2em;
+		color: #535A56;
+	}
+
+	.owl-theme .owl-nav {
+		display: none;
+		margin: 0px;
+	}
+
+	.owl-theme .owl-dots .owl-dot {
+		display: none !important;
+		margin: 0px;
+	}
+
+	.product .owl-carousel .item a img {
+		border-radius: 10px;
+		margin: 0px 0px 10px;
+	}
+
+	.footer {
+		padding: 0px 0px;
+	}
+
+	.footer h4 {
+		font-size: 24px;
+		text-align: center;
+	}
+
+	.footer-top {
+		font-size: 14px;
+		font-weight: 400;
+		line-height: 1.7em;
+		text-align: center;
+		margin: 10px 0px;
+	}
+
+	.footer ul {
+		text-align: center;
+		padding: 0px;
+		margin: 0px;
+	}
+
+	.footer ul:first-child li:first-child a {
+		font-size: 18px;
+	}
+
+	.footer ul li {
+		margin: 0px 0px 5px;
+	}
+
+	.footer ul li a {
+		font-size: 11px;
+	}
+
+	.footer .footer-bottom p {
+		font-size: 11px;
+	}
+
+	/*	css end*/
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+
+	/*	css start*/
+	.header .menu .login {
+		font-size: 11px;
+		margin: 0px 5px 0px 0px;
+		padding: 5px 15px;
+	}
+
+	.inner-top-header {
+		display: none;
+	}
+
+	.header .menu .register {
+		font-size: 11px;
+		margin: 0px 0px 0px 0px;
+		padding: 5px 15px;
+	}
+
+	.banner h2 {
+		font-size: 24px;
+		margin: 15px 0px 0px 0px;
+	}
+
+	.banner p {
+		font-size: 14px;
+		margin: 15px 0px 15px 0px;
+	}
+
+	.banner a {
+		font-size: 14px;
+		margin: 0px 0px 0px 0px;
+		padding: 5px 20px;
+	}
+
+	.inner-banner {
+		text-align: center;
+	}
+
+	.banner .img-fluid {
+		margin: 20px 0px 0px 0px;
+	}
+
+	.brand {
+		width: 100%;
+		padding: 30px 0px;
+	}
+
+	.brand h4 {
+		font-size: 18px;
+	}
+
+	.brand img {
+		width: 100%;
+		height: 30px;
+		margin: 40px 0px 0px 0px;
+	}
+
+	.inner-picture {
+		width: 100%;
+		padding: 0px 20px;
+	}
+
+	.services {
+		width: 100%;
+		padding: 20px 0px;
+	}
+
+	.card img {
+		margin: 10px 0px;
+	}
+
+	.product {
+		padding: 20px 0px;
+	}
+
+	.product h4 {
+		font-size: 20px;
+		margin: 0px 0px 20px;
+	}
+
+	.footer {
+		padding: 20px 0px;
+	}
+
+	.footer ul {
+		padding: 0px !important;
+	}
+
+	.footer ul li {
+		margin: 0px 0px 5px;
+	}
+
+	.footer ul:first-child li:first-child a {
+		font-size: 26px;
+		font-weight: 500;
+	}
+
+	/*	css end*/
+}
+
+@media (min-width: 481px) and (max-width: 768px) {
+
+	/*	css start*/
+	.header .menu .login {
+		font-size: 12px;
+		margin: 0px 8px 0px 0px;
+		padding: 5px 18px;
+	}
+
+	.header .menu .register {
+		font-size: 12px;
+		margin: 0px 0px 0px 0px;
+		padding: 5px 18px;
+	}
+
+	.inner-top-header .top-header ul li a {
+		font-size: 13px;
+	}
+
+	.banner h2 {
+		font-size: 28px;
+		margin: 15px 0px 0px 0px;
+	}
+
+	.banner p {
+		font-size: 16px;
+		margin: 15px 0px 15px 0px;
+	}
+
+	.banner a {
+		font-size: 16px;
+		margin: 0px 0px 0px 0px;
+		padding: 5px 20px;
+	}
+
+	.inner-banner {
+		text-align: center;
+	}
+
+	.banner .img-fluid {
+		margin: 25px 0px 0px 0px;
+	}
+
+	.brand {
+		width: 100%;
+		padding: 40px 0px;
+	}
+
+	.brand h4 {
+		font-size: 26px;
+	}
+
+	.brand img {
+		width: 100%;
+		margin: 60px 0px 0px 0px;
+	}
+
+	.inner-picture {
+		width: 100%;
+		padding: 40px 40px;
+	}
+
+	.services {
+		width: 100%;
+		padding: 40px 0px;
+	}
+
+	.card img {
+		margin: 10px 0px;
+	}
+
+	.category .card .card-title {
+		margin: 20px 0px 0px;
+	}
+
+	.product {
+		padding: 40px 0px;
+	}
+
+	.product h4 {
+		font-size: 24px;
+		margin: 0px 0px 20px;
+	}
+
+	.footer {
+		padding: 40px 0px;
+	}
+
+	.footer ul {
+		padding: 0px !important;
+	}
+
+	.footer ul li {
+		margin: 0px 0px 8px;
+	}
+
+	.footer ul:first-child li:first-child a {
+		font-size: 28px;
+		font-weight: 600;
+	}
+
+	/*	css end*/
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+
+	/*	css start*/
+	.inner-top-header .top-header ul li a {
+		font-size: 13px;
+	}
+
+	.category .card .card-fourth {
+		height: 371px;
+	}
+
+	.category .card-third {
+		margin-top: 20px;
+	}
+
+	.category .card-fourth {
+		margin-top: 20px;
+	}
+
+	.category .card .card-title {
+		margin: 20px 0px 0px;
+	}
+
+	/*	css end*/
+}
